@@ -1,0 +1,84 @@
+div#Navigation{
+	
+letter-spacing: 0.02em;
+background-color: black;
+
+position: fixed; /* Positionierung an Viewport */
+width: 100%; /* Volle Breite */
+z-index: 100; /* Ueber andere Elementen legen */
+color: grey;
+text-align: center;
+font-size: 18px;
+font-family: 'Fredericka the Great', cursive;
+border-top: 1px solid grey;
+border-bottom: 1px solid grey;
+display: inline-block;
+padding: 20px;
+
+}
+
+#fly{
+	background-image: url;
+	font-family: 'Fredericka the Great', cursive;
+}
+
+#sp1,#sp2,#sp3,#sp4,#sp5{
+margin-right:30px;
+}
+
+#Leer{ width: 100%; heihgt: 100%;
+	visibility: true;
+	width: 100%; heihgt: auto;
+	background-color: black;
+	color:white;
+	background-image: url("verlaufww4.gif");
+	background-size: 800px 800px;
+	background-position-x: center;
+	background-repeat: no-repeat;
+	
+}
+
+#verlauf{
+	
+	width: 100%; height: auto;
+	color:red;
+	
+
+}
+
+
+
+}
+#Content1header, #Content2header,#Content3header,#Content4header,#Content5header,#Content6header{
+padding: 15px;
+margin-bottom:30px;
+letter-spacing: 0.1em;
+border-top: 1px solid grey;
+border-bottom: 1px solid grey;
+color: white;
+}
+
+#Text{
+	color:grey;
+	text-align: center;
+	font-size: 24px;
+	font-family: Open Sans, Arial;
+	
+	padding: 30px;
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+}
+
+#Content1table {
+margin-left: auto;
+margin-right: auto;
+}
+ 
+
+}
+
+a{
+	color: grey;
+	text-decoration:none;
+}
+
